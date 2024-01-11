@@ -1,0 +1,83 @@
+[0.012s] Invoking command in '/home/kashif/distrobox/umd/662_p1/build/mobilerobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/kashif/distrobox/umd/662_p1/build/mobilerobot -- -j20 -l20
+[0.032s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[0.056s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.118s] -- Found robot_state_publisher: 2.5.3 (/opt/ros/galactic/share/robot_state_publisher/cmake)
+[0.138s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.140s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[0.271s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.287s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/galactic/share/eigen3_cmake_module/cmake)
+[0.318s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[0.319s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[0.331s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.777s] -- Found xacro: 2.0.7 (/opt/ros/galactic/share/xacro/cmake)
+[0.777s] -- Found ros2_control: 1.6.0 (/opt/ros/galactic/share/ros2_control/cmake)
+[0.777s] -- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+[0.822s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.829s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.829s] -- Configured cppcheck include dirs: 
+[0.829s] -- Configured cppcheck exclude dirs and/or files: 
+[0.836s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.836s] -- Configured cpplint exclude dirs and/or files: 
+[0.837s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.839s] -- Added test 'lint_cmake' to check CMake code style
+[0.840s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.847s] -- Added test 'uncrustify' to check C / C++ code style
+[0.847s] -- Configured uncrustify additional arguments: 
+[0.848s] -- Added test 'xmllint' to check XML markup files
+[0.850s] -- Configuring done
+[0.852s] -- Generating done
+[0.854s] -- Build files have been written to: /home/kashif/distrobox/umd/662_p1/build/mobilerobot
+[0.875s] Invoked command in '/home/kashif/distrobox/umd/662_p1/build/mobilerobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/kashif/distrobox/umd/662_p1/build/mobilerobot -- -j20 -l20
+[0.905s] Invoking command in '/home/kashif/distrobox/umd/662_p1/build/mobilerobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --install /home/kashif/distrobox/umd/662_p1/build/mobilerobot
+[0.916s] -- Install configuration: ""
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//urdf
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//urdf/mobilerobot.csv
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//urdf/mobilerobot.urdf.xacro
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/fl_wheel_link.STL
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/lidar_link.STL
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/fr_steering_link.STL
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/rear_wheel_link.STL
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/base_link.STL
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/fl_steering_link.STL
+[0.917s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//meshes/fr_wheel_link.STL
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch/gazebo.launch.py
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch/display.launch.py
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch/spawn_robot_ros2.launch.py
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch/robot_description_publisher.py
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch/debug.launch.py
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//launch/competition.launch.py
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//worlds
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//worlds/empty_world.world
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena/meshes
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena/meshes/base_link.STL
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena/meshes/track.STL
+[0.918s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena/meshes/check_point.STL
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena/model.sdf
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/arena/model.config
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/worlds
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//competition/worlds/competition.world
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//config
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot//config/control.yaml
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/include/mobilerobot
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/lib/mobilerobot/robot_description_publisher.py
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/lib/mobilerobot/controller.py
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/ament_index/resource_index/package_run_dependencies/mobilerobot
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/ament_index/resource_index/parent_prefix_path/mobilerobot
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/environment/ament_prefix_path.sh
+[0.919s] -- Installing: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/environment/ament_prefix_path.dsv
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/environment/path.sh
+[0.919s] -- Installing: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/environment/path.dsv
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/local_setup.bash
+[0.919s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/local_setup.sh
+[0.920s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/local_setup.zsh
+[0.920s] -- Installing: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/local_setup.dsv
+[0.920s] -- Installing: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/package.dsv
+[0.920s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/ament_index/resource_index/packages/mobilerobot
+[0.920s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/cmake/mobilerobotConfig.cmake
+[0.920s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/cmake/mobilerobotConfig-version.cmake
+[0.920s] -- Up-to-date: /home/kashif/distrobox/umd/662_p1/install/mobilerobot/share/mobilerobot/package.xml
+[0.921s] Invoked command in '/home/kashif/distrobox/umd/662_p1/build/mobilerobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --install /home/kashif/distrobox/umd/662_p1/build/mobilerobot

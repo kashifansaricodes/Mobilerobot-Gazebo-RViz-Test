@@ -1,0 +1,9 @@
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/install/strip.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/install/local.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/install.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/list_install_components.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/rebuild_cache.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/edit_cache.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/test.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/mobilerobot_uninstall.dir
+/home/kashif/distrobox/umd/662_p1/build/mobilerobot/CMakeFiles/uninstall.dir
